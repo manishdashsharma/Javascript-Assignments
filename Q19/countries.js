@@ -1,1 +1,1 @@
-const countries = ['India', 'Russia', 'Nepal', 'Australia']
+export const countries = ['India', 'Russia', 'Nepal', 'Australia']

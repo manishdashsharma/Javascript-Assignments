@@ -1,1 +1,1 @@
-const WebTech = ["react", 'angular', 'express js','js']
+export const WebTech = ["react", 'angular', 'express js','js']
